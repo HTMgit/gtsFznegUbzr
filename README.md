@@ -6,4 +6,4 @@ Mobile terminal intelligent control
 
 -(NSArray *)sortByInsert:(NSMutableArray *)arrSender ----将输入的数字倒序排列（插入排序法）
 
--(NSArray *)splitArrSender:(NSArray*)arrSender theMoreNum:(NSNumber *)moreNum    ----将输入的数字倒序排列（对比排序法）大幅提高排序效率
+-(NSArray *)splitArrSender:(NSArray*)arrSender theMoreNum:(NSNumber *)moreNum    ----将输入的数字倒序排列（归并排序法）提高排序效率
